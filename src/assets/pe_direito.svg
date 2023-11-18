@@ -225,5 +225,11 @@
        d="m 35.989123,202.27587 c 0.4453,1.47639 1.04669,3.26736 3.93413,3.4923 l 0.22479,-0.0114 c -0.73187,-3.92068 -1.45694,-7.60616 -2.019,-11.20294 -2.80647,1.02508 -2.98606,5.16395 -2.13992,7.72204 z"
        sodipodi:nodetypes="ccccc"
        inkscape:label="bexiga" />
+    <path
+       id="path794"
+       style="display:inline;fill:#fbeb00;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20.641773,171.33926 c -0.400427,0.28942 -1.858716,0.42395 -2.348178,0.42995 2.736138,8.87812 6.564378,16.93372 17.534848,25.49612 0.2444,-0.8398 0.65899,-1.5844 1.28158,-2.11563 -9.33151,-7.60612 -13.3669,-15.32828 -16.46825,-23.81044 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="ureter" />
   </g>
 </svg>
